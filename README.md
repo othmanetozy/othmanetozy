@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm othmane tozy</h1>
-<h3 align="center">sowftware engineer student at EMSI from morroco</h3>
+<h3 align="center">sowftware engineer student at EMSI from morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=othmanetozy&label=Profile%20views&color=0e75b6&style=flat" alt="othmanetozy" /> </p>
 
