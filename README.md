@@ -5,6 +5,6 @@
 - 🔭 I’m currently a full-stack developer student.
 - 🌱 I’m currently learning **DevOps** and **Full Stack Development**
 - 📫 How to reach me **othmanetozy.06@gmail.com**
-- 🔑 GPG key: `A3B0C3E967AF2CE5`
+ :key: GPG key: `A3B0C3E967AF2CE5`
 
 <br>
