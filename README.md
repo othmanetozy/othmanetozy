@@ -11,8 +11,11 @@
 - 📫 How to reach me **othmanetozy.06@gmail.com**
 - 🔑 GPG key: `A3B0C3E967AF2CE5`
 
-<p align="left">
-   <img src="https://komarev.com/ghpvc/?username=othmanetozy&style=for-the-badge&color=130F60" />
+<be>
+
+<h2 align="center"> Views</h2>
+<p align="center">
+   <img src="https://profile-counter.glitch.me/othmanetozy/count.svg" />
 <p>  
 
 <br>
