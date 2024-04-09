@@ -9,7 +9,7 @@
 - 🔭 I’m currently a `R&D engineer intern` at Berger levrault, Morocco
 - 🌱 I’m currently learning **DevOps** and **Full Stack Development**
 - 📫 How to reach me **othmanetozy.06@gmail.com**
-- 🔑 GPG key: `A3B0C3E967AF2CE5`
+- :key: GPG key: [`A3B0C3E967AF2CE5`](https://github.com/othmanetozy.gpg)
 
 <be>
 
