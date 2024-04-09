@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Othmane Tozy </h1>
 <!--<h3 align="center">Software Engineer </h3>-->
 
-<h2 align="center">
-<img src="img/school-of-athens.jpg">
-</h2>
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 
-<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Web+Developer;Open+Source+Lover;Mobile+Developer%20&center=true&width=500&height=50"></a>
 </p>
 
-- 🔭 I’m currently a `R&D engineer intern` at Berger levrault, Morocco
-- 🌱 I’m currently learning **DevOps** and **Full Stack Development**
-- 📫 How to reach me **othmanetozy.06@gmail.com**
-- :key: GPG key: [`A3B0C3E967AF2CE5`](https://github.com/othmanetozy.gpg)
+<h3 align="left">👨🏻‍💻  About Me</h3>
+- 🔭 I’m currently a `R&D engineer intern` at Berger levrault, Morocco<br />
+- 🌱 I’m currently learning **DevOps** and **Full Stack Development**<br />
+- 📫 How to reach me **othmanetozy.06@gmail.com**<br/>
+- :key: GPG key: [`A3B0C3E967AF2CE5`](https://github.com/othmanetozy.gpg)<br/>
 
 <be>
 
