@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Web+Developer;Open+Source+Lover;Mobile+Developer%20&center=true&width=500&height=50"></a>
 </p>
 
-- 🔭 I’m currently a `R&D engineer intern` at Berger levrault, Morocco
+- 🔭 I’m currently `seeking for an opportunity ` at `web development`
 - 🌱 I’m currently learning **DevOps** and **Full Stack Development**
 - 📫 How to reach me **othmanetozy.06@gmail.com**
 - :key: GPG key: [`A3B0C3E967AF2CE5`](https://github.com/othmanetozy.gpg)
