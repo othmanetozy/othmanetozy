@@ -11,8 +11,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Web+Developer;Open+Source+Lover;Mobile+Developer%20&center=true&width=500&height=50"></a>
 </p>
 
-- 🔭 I’m currently `seeking for an opportunity ` at `web development`
-- 🌱 I’m currently learning **DevOps** and **Full Stack Development**
+- 🔭 I’m currently `web developer `
+<!--- 🌱 I’m currently learning **DevOps** and **Full Stack Development**-->
 - 📫 How to reach me **othmanetozy.06@gmail.com**
 - :key: GPG key: [`A3B0C3E967AF2CE5`](https://github.com/othmanetozy.gpg)
 
@@ -87,10 +87,10 @@
 
 <h4 align="left">Backend as a Service:</h3>
 <p align="left">
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://socket.io/" target="_blank" rel="noreferrer">
+<!---<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> -->
+<!---<a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket-io" width="40" height="40"/>
-</a>
+</a>--->
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
